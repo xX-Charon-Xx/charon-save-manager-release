@@ -6,9 +6,9 @@
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://github.com/xX-Charon-Xx/charon-save-manager-release/releases/latest"><b>Download for Windows</b></a><br><sub>64-bit</sub></td>
-<td width="33%" align="center"><a href="https://github.com/xX-Charon-Xx/charon-save-manager-release/releases/latest"><b>Download for macOS</b></a><br><sub>Apple Silicon, M1 and newer</sub></td>
-<td width="33%" align="center"><a href="https://github.com/xX-Charon-Xx/charon-save-manager-release/releases/latest"><b>Download for Linux</b></a><br><sub>Steam Deck too</sub></td>
+<td width="33%" align="center"><a href="https://github.com/xX-Charon-Xx/charon-save-manager-release/releases/download/v0.8.0-beta/CharonSaveManager-0.8.0-beta-windows.exe"><b>Download for Windows</b></a><br><sub>64-bit</sub></td>
+<td width="33%" align="center"><a href="https://github.com/xX-Charon-Xx/charon-save-manager-release/releases/download/v0.8.0-beta/CharonSaveManager-0.8.0-beta-macos-arm.zip"><b>Download for macOS</b></a><br><sub>Apple Silicon, M1 and newer</sub></td>
+<td width="33%" align="center"><a href="https://github.com/xX-Charon-Xx/charon-save-manager-release/releases/download/v0.8.0-beta/CharonSaveManager-0.8.0-beta-linux"><b>Download for Linux</b></a><br><sub>Steam Deck too</sub></td>
 </tr>
 </table>
 
